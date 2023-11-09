@@ -2,7 +2,7 @@
 1st task
 # README: Titanic Survival Prediction
 
-## Author: CHANDRAHAS K
+## Author: KEDHARESHWARA SUBBA REDDY S
 
 ## Batch: NOVEMBER
 
